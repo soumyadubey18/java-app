@@ -3,7 +3,7 @@ package com.devops;
 public class App {
     public static void main(String[] args) {
         System.out.println("================================");
-        System.out.println("       DEVOPS SYSTEM APP");
+        System.out.println("       DecOps SYSTEM APP");
         System.out.println("================================");
         System.out.println("Application : DevOps Monitor");
         System.out.println("Environment : AWS EC2");
